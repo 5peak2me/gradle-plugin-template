@@ -1,7 +1,7 @@
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.jetbrains.kotlin.compose)
-    id("io.github.speak2me.gradle.plugin")
+    id("io.github.5peak2me.gradle.plugin")
 }
 
 android {
