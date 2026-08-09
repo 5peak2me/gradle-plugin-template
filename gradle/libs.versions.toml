@@ -9,7 +9,7 @@ activityCompose = "1.12.2"
 kotlin = "2.3.21"
 composeBom = "2026.01.00"
 
-speak2me-ktx = "0.0.5"
+speak2me-ktx = "0.0.8"
 pluginPublish = "2.1.1"
 
 [libraries]
